@@ -2,12 +2,13 @@
 
 ## Description
 
-This plugin adds a some customizations to AMP Stories enabled in the AMP plugin.
+This plugin is experimental and adds a some customizations to AMP Stories enabled in the AMP plugin.
 
 ## Requirements
 
 - WordPress 5.0
 - AMP Plugin v1.2.1
+- Genesis v3.0+
 
 ## Installation
 
