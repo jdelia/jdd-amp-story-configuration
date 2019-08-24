@@ -20,5 +20,5 @@ This plugin is experimental and adds a some customizations to AMP Stories enable
 ## Credits
 
 Built by [Jackie D'Elia](https://twitter.com/jdelia)
-Copyright 2019 [Jackie D'Elia](https://jackiedelia.com/)
+Copyright 2019 [Jackie D'Elia](https://jackiedelia.com/)  
 Code to enable landscape (desktop) support for stories that have the 'landscape' tag, from Author: [Weston Ruter](https://weston.ruter.net/)
