@@ -1,0 +1,13 @@
+{
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+  "prettier.eslintIntegration": true,
+  "prettier.stylelintIntegration": true,
+  "editor.formatOnSave": true,
+  "phpcs.enable": true,
+  "phpcs.standard": "wordpress",
+  "editor.renderWhitespace": "all",
+  "phpcbf.onsave": true,
+  "phpcbf.standard": "wordpress"
+}
